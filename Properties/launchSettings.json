@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ClassMetotDemo": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\mahmu\\Desktop\\ClassMetotDemo",
+      "remoteDebugEnabled": false,
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}
